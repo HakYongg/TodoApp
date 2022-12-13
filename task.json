@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Learn React Framework",
+      "ta": "Task",
+      "time": "20-Dec-2022",
+      "sta":"1",
+      "ti":"My task"
+    },
+    {
+      "name": "explore new things",
+      "ta": "Task",
+      "time": "20-Dec-2022",
+      "sta":"2",
+      "ti":"Planed"
+    },
+    {
+      "name": "Hang out",
+      "ta": "Task",
+      "time": "20-Dec-2022",
+      "sta":"3",
+      "ti":"Important"
+    },
+    {
+      "name": "Movie Dating",
+      "ta": "Task",
+      "time": "20-Dec-2022",
+      "sta":"4",
+      "ti":"Private"
+    },  
+    {
+      "name": "Play game",
+      "ta": "Task",
+      "time": "20-Dec-2022",
+      "sta":"4",
+      "ti":"Relax"
+    }
+    
+  ]
